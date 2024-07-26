@@ -1,1 +1,1 @@
-# Object-Detection-using-YOLOv5
+# Waste-Detection-using-YOLOv5
